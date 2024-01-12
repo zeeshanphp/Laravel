@@ -1,0 +1,11 @@
+1. Login using Auth Facade
+2. Register
+3. Login wiht github(Laravel Sociallite)
+4. Remember User on login
+5. Form validation with custom error messages
+6. Session Flash 
+7. Forgot Password
+8. Email sending
+
+twitter secret
+1uZT2Uv5eMhElhBhuL-lz5aiKNALnakox_x_3eIaZ_lJlduhXH
